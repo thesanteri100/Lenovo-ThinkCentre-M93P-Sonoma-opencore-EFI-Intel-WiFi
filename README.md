@@ -1,4 +1,4 @@
-# Lenovo-M93P-RX560-Sonoma-opencore-EFI
+# Lenovo-M93P-Sonoma-opencore-EFI
 Here's full EFI for Lenovo M93P For macOS 
 
 With support for Intel WIFI cards
